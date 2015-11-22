@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="1337" name="1337 H4x0r" modified="2015-11-22 6:05:00" author="Gratin">
+    <occurrenceIndication color="#616161" />
+    <findScope color="#191919" />
+    <deletionIndication color="#FF0000" />
+    <singleLineComment color="#FF00FF" bold="true" />
+    <multiLineComment color="#FF00FF" bold="true" />
+    <commentTaskTag color="#00FFFF" bold="false" underline="false" strikethrough="false" />
+    <javadoc color="#666666" bold="false" underline="false" strikethrough="false" />
+    <javadocLink color="#666666" />
+    <javadocTag color="#800080" />
+    <javadocKeyword color="#800080" />
+    <class color="#00FFFF" bold="true" underline="false" strikethrough="false" />
+    <interface color="#00FFFF" bold="true" underline="false" strikethrough="false" />
+    <method color="#00FFFF" bold="true" underline="false" strikethrough="false" />
+    <methodDeclaration color="#00FFFF" bold="true" underline="false" strikethrough="false" />
+    <bracket color="#00FF00" bold="false" underline="false" strikethrough="false" />
+    <number color="#00FFFF" bold="true" underline="false" strikethrough="false" />
+    <string color="#FF6F00" bold="true" underline="false" strikethrough="false" />
+    <operator color="#00FF00" />
+    <keyword color="#00FF00" bold="false" italic="true" />
+    <annotation color="#999999" />
+    <staticMethod color="#00FFFF" />
+    <localVariable color="#FF00FF" bold="false" underline="true" strikethrough="false" />
+    <localVariableDeclaration color="#FF00FF" bold="true" italic="true" underline="true" strikethrough="false" />
+    <field color="#FF00FF" bold="true" underline="false" strikethrough="false" />
+    <staticField color="#FFFFFF" />
+    <staticFinalField color="#80FF00" />
+    <deprecatedMember color="#FFFFFF" />
+    <enum color="#408000" />
+    <inheritedMethod color="#E3B735" />
+    <abstractMethod color="#F1C436" />
+    <parameterVariable color="#FF00FF" bold="true" underline="false" strikethrough="false" />
+    <typeArgument color="#D9B0AC" />
+    <typeParameter color="#CDB1AD" />
+    <background color="#202020" />
+    <currentLine color="#222220" />
+    <foreground color="#00FF00" />
+    <lineNumber color="#00FFFF" />
+    <selectionBackground color="#202020" /> <!--Number Background and Selection background -->
+    <selectionForeground color="#FF0000" /> <!--Selection Color-->
+</colorTheme>
